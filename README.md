@@ -1,7 +1,5 @@
 # Student Performance Prediction (End-to-End ML)
 
-# Student Performance Prediction (End-to-End ML)
-
 ## Problem Statement
 Predict student academic performance using demographic and academic data.
 
